@@ -6,7 +6,7 @@ This is a simple python script to have conversation with chatGPT the AI model de
 
 ### Imortant Message
 
-One thing to note that currenlty OpenAI made the `cgatGPT` free for public use to gather feedbacks and train the model with public querues but in future this script will not work once OpenAI monetised the model or made the api offline.
+One thing to note that currenlty OpenAI made the `chatGPT` free for public use to gather feedbacks and train the model with public querues but in future this script will not work once OpenAI monetised the model or made the api offline.
 
 ### How to get session token
 
